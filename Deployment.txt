@@ -1,1 +1,1 @@
-Deployed on: tiny.cc/quiz-app-ak
+Deployed on: https://quiz-app-ak.netlify.app/
